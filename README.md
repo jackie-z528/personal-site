@@ -1,3 +1,3 @@
-this is my personal webSITE
+this is my personal website
 
 
